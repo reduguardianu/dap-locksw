@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "pallair78@magex.hu",
+                "Name": "Roland Pallai"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Small switch to temporarily suspend automatic locking of the screen",
+        "Icon": "system-lock-screen",
+        "Id": "dap.locksw",
+        "License": "GPL",
+        "Name": "Dap's LockSwitch",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.1",
+        "Website": "https://github.com/rpallai/dap-locksw"
+    },
+    "Keywords": "lock",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-DefaultSize": "32,32",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
